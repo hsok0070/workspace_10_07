@@ -1,0 +1,8 @@
+package x.y;
+
+public class OutputServiceImplConsole {
+
+	public void print() {
+		System.out.println("출력되냥?ㅋ");
+	}
+}

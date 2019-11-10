@@ -1,0 +1,9 @@
+package x.y;
+
+public class OutputService {
+	
+	public void print() {
+		System.out.println("출력되냐?");
+	}
+
+}

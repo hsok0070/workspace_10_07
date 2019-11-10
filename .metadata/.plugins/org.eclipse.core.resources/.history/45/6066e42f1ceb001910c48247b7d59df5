@@ -1,0 +1,20 @@
+package x.y;
+
+public class GreetingServiceImpl implements OutputService {
+	
+	private OutputService outputter;
+
+	public void setOutputter(OutputService outputter) {
+		this.outputter = outputter;
+	}
+
+//	@Override
+//	public String toString() {
+//		return "GreetingServiceImpl [outputter=" + outputter + "]";
+//	}
+	
+	public void print() {
+		System.out.println("하이");
+	}
+	
+}

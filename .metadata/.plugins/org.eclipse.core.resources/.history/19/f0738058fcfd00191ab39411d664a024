@@ -1,0 +1,12 @@
+package testPrj;
+
+public class MainClass {
+	
+	private void mai() {
+
+		TranspotationWalk trans = new TranspotationWalk();
+		
+		trans.
+	}
+
+}

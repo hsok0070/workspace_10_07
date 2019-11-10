@@ -1,0 +1,7 @@
+package x.y;
+
+public interface GreetingService {
+	
+	void print();
+
+}

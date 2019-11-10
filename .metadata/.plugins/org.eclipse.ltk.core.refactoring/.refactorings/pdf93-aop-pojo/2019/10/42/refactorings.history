@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;pdf93-aop-pojo/src/main/java/config/pojo.xml&apos; to &apos;po.xml&apos;" description="Rename resource &apos;pojo.xml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/java/config/pojo.xml" name="po.xml" stamp="1571101656863" updateReferences="true"/>
+</session>

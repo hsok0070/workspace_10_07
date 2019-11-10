@@ -1,0 +1,23 @@
+package main;
+
+import org.springframework.beans.factory.BeanFactory;
+import org.springframework.beans.factory.xml.XmlBeanFactory;
+import org.springframework.core.io.ClassPathResource;
+import org.springframework.core.io.Resource;
+
+import x.y.GreetingServiceImpl;
+import x.y.OutputService;
+
+
+public class TestMain {
+	public static void main(String[] args) {
+		
+		Resource resource = new ClassPathResource("config/applicationContext.xml");
+		BeanFactory factory = new XmlBeanFactory(resource);
+		GreetingServiceImpl g = (GreetingServiceImpl)factory.getBean("greeting");
+		
+		g.print();
+		g.toString();
+	}
+
+}

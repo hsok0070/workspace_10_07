@@ -1,0 +1,10 @@
+package x.y;
+
+public class OutputServiceImplConsole implements OutputService {
+
+	@Override
+	public void print() {
+		System.out.println("asd");
+	}
+	
+}

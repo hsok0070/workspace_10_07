@@ -1,0 +1,11 @@
+package x.y;
+
+public class GreetingServiceImpl {
+	
+	private OutputServiceImplConsole outputter;
+
+	public void setOutputter(OutputServiceImplConsole outputter) {
+		this.outputter = outputter;
+	}
+	
+}

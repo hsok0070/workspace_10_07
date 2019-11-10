@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="pdf42"/>
+<aop-project name="pdf75"/>
+<aop-project name="pdf93_pojo"/>
+<aop-project name="youtube-02"/>
+<aop-project name="pdf121-db"/>
+<aop-project name="ex01"/>
+<aop-project name="spring-test"/>
+<aop-project name="aop-test"/>
+<aop-project name="parson"/>
+<aop-project name="pdf36"/>
+<aop-project name="pdf18"/>
+<aop-project name="pdf93_aop"/>
+<aop-project name="lec14Pjt"/>
+<aop-project name="testPrj"/>
+</aop-reference-model>

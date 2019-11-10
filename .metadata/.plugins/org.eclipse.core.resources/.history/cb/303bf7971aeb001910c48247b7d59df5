@@ -1,0 +1,22 @@
+package x.y;
+
+public class OutputService {
+	
+	 String name = "길용성";
+	
+	 
+	publi OutputService() {};
+	
+	public OutputService(String name) {
+		super();
+		this.name = name;
+	}
+
+
+
+
+	public void print() {
+		System.out.println("출력되냐?");
+	}
+
+}

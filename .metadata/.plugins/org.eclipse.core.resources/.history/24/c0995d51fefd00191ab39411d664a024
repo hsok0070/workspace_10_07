@@ -1,0 +1,15 @@
+package testPrj;
+
+import org.springframework.context.support.GenericXmlApplicationContext;
+
+public class MainClass {
+
+	public static void main(String[] args) {
+
+//		TranspotationWalk trans = new TranspotationWalk();
+//		trans.move();
+
+		GenericXmlApplicationContextApplicationContext ctx = new GenericXmlApplicationContext("classpath:aplicationContext.xml")
+		
+	}
+}

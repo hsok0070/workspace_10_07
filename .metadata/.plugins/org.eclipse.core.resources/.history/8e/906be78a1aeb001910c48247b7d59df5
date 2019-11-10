@@ -1,0 +1,11 @@
+package x.y;
+
+public class OutputService {
+	
+	String ouuputter = "되냐"?
+	
+	public void print() {
+		System.out.println("출력되냐?");
+	}
+
+}

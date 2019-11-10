@@ -1,0 +1,11 @@
+package x.y;
+
+public class GreetingServiceImpl implements GreetingService {
+	
+	private OutputService outputter;
+	
+	
+
+
+	
+}

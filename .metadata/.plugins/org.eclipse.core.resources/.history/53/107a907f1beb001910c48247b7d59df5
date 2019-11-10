@@ -1,0 +1,25 @@
+package x.y;
+
+public class OutputService {
+	
+	 String name = "길용성";
+	
+	 
+	public OutputService() {};
+	
+//	public OutputService(String name) {
+//		super();
+//		this.name = name;
+//	}
+
+	public void print() {
+		System.out.println("출력되냐?");
+	}
+
+	@Override
+	public String toString() {
+		return "OutputService [name=" + name + "]";
+	}
+
+	
+}

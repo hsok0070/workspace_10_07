@@ -1,0 +1,9 @@
+package x.y;
+
+public class OutputServiceImplConsole {
+	
+	String name = "길용성";
+	
+	
+
+}

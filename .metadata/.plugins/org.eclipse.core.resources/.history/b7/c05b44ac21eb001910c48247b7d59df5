@@ -1,0 +1,6 @@
+package x.y;
+
+public interface OutputService {
+	void print();
+
+}

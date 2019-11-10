@@ -1,0 +1,7 @@
+package x.y;
+
+public interface OutputService {
+	final String name="룡성동무";
+	void print();
+
+}

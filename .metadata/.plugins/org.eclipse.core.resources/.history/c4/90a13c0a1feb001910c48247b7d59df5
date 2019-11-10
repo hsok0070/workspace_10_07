@@ -1,0 +1,11 @@
+package x.y;
+
+public class OutputServiceImplConsole {
+	
+	String name = "길용성";
+	
+	public void print() {
+		System.out.println("룡성동무");
+	}
+
+}

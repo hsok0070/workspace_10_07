@@ -1,0 +1,10 @@
+package testPrj;
+
+public class MainClass {
+	
+
+	public static void main(String[] args) {
+		TranspotationWalk trans = new TranspotationWalk();
+		trans.move();
+	}
+}
